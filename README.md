@@ -9,3 +9,5 @@
 **Day 2** :: 1-03-2022
 
 1. [Pow(x,n)](https://leetcode.com/problems/powx-n/) | [O(logn)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mypow.py3)
+2. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Two-pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/middleNode.py3)
+3. 
