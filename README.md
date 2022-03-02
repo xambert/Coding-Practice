@@ -12,3 +12,7 @@
 2. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Two-pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/middleNode.py3)
 3. [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rotateRight.py3)
 4. [Minimum Platform](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) | [Solution](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minimumPlatform.py3)
+
+**Day 3** :: 2-03-2022
+
+1. [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mergeTwoList.py3)
