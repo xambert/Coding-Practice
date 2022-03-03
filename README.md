@@ -20,3 +20,4 @@
 **Day 4** :: 3-03-2022
 
 1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [O(n) no division](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/productExceptSelf.py3)
+2. [ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSubArray.py3)
