@@ -16,3 +16,7 @@
 **Day 3** :: 2-03-2022
 
 1. [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mergeTwoList.py3)
+
+**Day 4** :: 3-03-2022
+
+1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [O(n) no division](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/productExceptSelf.py3)
