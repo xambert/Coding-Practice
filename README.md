@@ -26,3 +26,4 @@
 **Day 5** :: 4-03-2022
 
 1. [LevelOrder](https://practice.geeksforgeeks.org/problems/level-order-traversal/1/#) | [bfs](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/levelOrder.py3)
+2. [Two Mirror Trees](https://practice.geeksforgeeks.org/problems/two-mirror-trees/1/#) | [Recursion](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/areMirror.py3)
