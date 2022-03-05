@@ -1,0 +1,42 @@
+ def pivot(self, nums: List[int]) -> int:
+        low = 0
+        high = len(nums)-1
+        while low<high:
+            mid = (low + high)//2
+            if nums[mid] > nums[high]:
+                low = mid + 1
+            else:
+                high = mid
+        return low
+    
+    def binary_search(self, nums, target, left, right,n, p) -> int:
+        if left> right:
+            return -1
+        mid = (left + right)//2
+        nmid = (mid + p)%n # actual mid according to unrotated array
+        if nums[nmid] == target:
+            return nmid
+        if nums[nmid] < target:
+            return self.binary_search(nums, target, mid+1, right,n,p)
+        else:
+            return self.binary_search(nums, target, left, mid-1,n,p)
+        
+    def search(self, nums: List[int], target: int) -> int:
+        p = self.pivot(nums) 
+        left = 0
+        right= len(nums)-1
+        n = right + 1
+        return self.binary_search(nums, target, left, right, n, p)
+    
+    
+    
+"""
+[3,4,0,1,2]
+
+target = 4
+rot = 2
+mid | nmid | lo | high| val
+2| 4 | 3|4 | 0
+3| 0 | 4| 4| 1
+4| 0
+"""
