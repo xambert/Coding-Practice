@@ -31,3 +31,4 @@
 **Day 6** :: 5-03-2022
 
 1. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [bs1](https://github.com/xambert/Coding-Practice/blob/main/Codes/findMin_1.py3) | [bs2](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/find_min_2.py3)
+2. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [bs](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/searchrotated.py3)
