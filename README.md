@@ -27,3 +27,7 @@
 
 1. [LevelOrder](https://practice.geeksforgeeks.org/problems/level-order-traversal/1/#) | [bfs](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/levelOrder.py3)
 2. [Two Mirror Trees](https://practice.geeksforgeeks.org/problems/two-mirror-trees/1/#) | [Recursion](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/areMirror.py3)
+
+**Day 6** :: 5-03-2022
+
+1. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [bs1](https://github.com/xambert/Coding-Practice/blob/main/Codes/findMin_1.py3) | [bs2](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/find_min_2.py3)
