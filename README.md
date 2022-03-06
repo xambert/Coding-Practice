@@ -32,3 +32,7 @@
 
 1. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [bs1](https://github.com/xambert/Coding-Practice/blob/main/Codes/findMin_1.py3) | [bs2](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/find_min_2.py3)
 2. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [2-bs](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/searchrotated.py3) | [1-bs](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/searchrotatedmod_py3)
+
+**Day 7** :: 6-03-2022
+
+1. [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Soln](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/majorityn3.py3)
