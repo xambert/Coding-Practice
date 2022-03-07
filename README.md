@@ -36,3 +36,7 @@
 **Day 7** :: 6-03-2022
 
 1. [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Soln](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/majorityn3.py3)
+
+**Day 8** :: 8-03-2022
+
+1 .[Unique Paths](https://leetcode.com/problems/unique-paths/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/uniquePaths.py3)
