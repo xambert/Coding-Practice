@@ -39,4 +39,4 @@
 
 **Day 8** :: 8-03-2022
 
-1 .[Unique Paths](https://leetcode.com/problems/unique-paths/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/uniquePaths.py3)
+1. [Unique Paths](https://leetcode.com/problems/unique-paths/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/uniquePaths.py3)
