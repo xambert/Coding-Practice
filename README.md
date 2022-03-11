@@ -40,3 +40,7 @@
 **Day 8** :: 8-03-2022
 
 1. [Unique Paths](https://leetcode.com/problems/unique-paths/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/uniquePaths.py3) | [nCr](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/uniquePaths1.py3)
+
+**Day 9** :: 11-03-2022
+
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [O(n)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxProfit.py3)
