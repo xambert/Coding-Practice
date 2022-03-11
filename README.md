@@ -47,3 +47,4 @@
 2. [Sort Colors](https://leetcode.com/problems/sort-colors/) | [2-pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/sortColors.py3)
 3. [Next Permutation](https://leetcode.com/problems/next-permutation/) | [2-pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/nextPermutation.py3) | [bs](https://github.com/xambert/Coding-Practice/blob/main/Codes/nextPermutationbs.py3)
 4. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Pascal_1.py3)
+5. [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxProfit2.py3) | [simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxProfit2i.py3) 
