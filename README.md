@@ -44,3 +44,4 @@
 **Day 9** :: 11-03-2022
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [O(n)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxProfit.py3)
+2. [Sort Colors](https://leetcode.com/problems/sort-colors/) | [2-pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/sortColors.py3)
