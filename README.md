@@ -55,4 +55,4 @@
 2. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Floyd](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findDuplicate.py3)
 3. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Soln](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/addTwoNumbers.py3) | [Clear](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/addTwonumbers1.py3)
 4. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [2-liner](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/deleteNode.py3)
-5. 
+5. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getIntersectionNode.py3) 
