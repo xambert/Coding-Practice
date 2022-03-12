@@ -48,3 +48,7 @@
 3. [Next Permutation](https://leetcode.com/problems/next-permutation/) | [2-pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/nextPermutation.py3) | [bs](https://github.com/xambert/Coding-Practice/blob/main/Codes/nextPermutationbs.py3)
 4. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Pascal_1.py3)
 5. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxProfit2.py3) | [simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxProfit2i.py3) 
+
+**Day 10** :: 12-03-2022
+
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mergeintervals.py3)
