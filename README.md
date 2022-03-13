@@ -61,3 +61,4 @@
 
 1. [Remove Nth Node From End of List](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthfromend.py3) | [pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthfromend.py3)
 2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/hascyclell.py3)
+3. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Recursion](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reverseKgroup.py3)
