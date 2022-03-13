@@ -65,4 +65,4 @@
 
 **Day 12** :: 14-03-2022
 
-1.[Inversion Count](https://www.codingninjas.com/codestudio/problems/615?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Recursive Merge Sort](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Inversioncount1.py3)
+1. [Inversion Count](https://www.codingninjas.com/codestudio/problems/615?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Recursive Merge Sort](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Inversioncount1.py3)
