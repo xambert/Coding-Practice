@@ -62,3 +62,7 @@
 1. [Remove Nth Node From End of List](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthfromend.py3) | [pointers](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthfromend.py3)
 2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/hascyclell.py3)
 3. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Recursion](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reverseKgroup.py3)
+
+**Day 12** :: 14-03-2022
+
+1.[Inversion Count}(https://www.codingninjas.com/codestudio/problems/615?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Recursive Merge Sort](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Inversioncount1.py3)
