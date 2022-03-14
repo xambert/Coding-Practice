@@ -70,8 +70,9 @@
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [dictionary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestConsecutive.py3)
 4. [Two Sum](https://leetcode.com/problems/two-sum/description/) | [dictionary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/twoSum.py3) | [extended](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/twosum1.py3)
 5. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/twosumii.py3)
-6. [Three Sum](https://leetcode.com/problems/3sum/description/) | [Set](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threeSum.py3)
+6. [Three Sum](https://leetcode.com/problems/3sum/description/) | [Set](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threeSum.py3) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threesum2.py3)
 
 **Day 13** :: 15-03-2022
 
 1. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [O(n) space](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/detectCycle1.py3) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/detectcycle2.py3) | [2p simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/detectCycle3.py3)
+2. [Three Sum](https://leetcode.com/problems/3sum/description/) [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threesum2.py3)
