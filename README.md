@@ -69,3 +69,4 @@
 2. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | [MS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reversePairs1.py3) | [Clear MS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reversePairs2.py3)
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [dictionary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestConsecutive.py3)
 4. [Two Sum](https://leetcode.com/problems/two-sum/description/) | [dictionary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/twoSum.py3) | [extended](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/twosum1.py3)
+5. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/twosumii.py3)
