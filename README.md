@@ -74,4 +74,4 @@
 
 **Day 13** :: 15-03-2022
 
-1. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [O(n) space](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/detectCycle1.py3)
+1. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [O(n) space](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/detectCycle1.py3) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/detectcycle2.py3)
