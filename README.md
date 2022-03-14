@@ -66,4 +66,4 @@
 **Day 12** :: 14-03-2022
 
 1. [Inversion Count](https://www.codingninjas.com/codestudio/problems/615?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Recursive Merge Sort](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Inversioncount1.py3)
-2. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | [MS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reversePairs1.py3) | []()
+2. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | [MS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reversePairs1.py3) | [Clear MS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reversePairs2.py3)
