@@ -78,3 +78,4 @@
 2. [Three Sum](https://leetcode.com/problems/3sum/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threesum2.py3)
 3. [4Sum](https://leetcode.com/problems/4sum/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/fourSum.py3)
 4. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) | [dictionary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxLen.py3)
+5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isPalindrome.py3)
