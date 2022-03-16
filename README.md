@@ -83,3 +83,4 @@
 **Day 14** :: 16-03-2022
 
 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [dictionary](https://github.com/xambert/Coding-Practice/blob/main/Codes/lengthOfLongestSubstring.py3) | [Array as map](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lengthOfLongestSubstring1.py3)
+2. [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Merge](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/flatten.py3)
