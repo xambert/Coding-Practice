@@ -85,3 +85,4 @@
 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [dictionary](https://github.com/xambert/Coding-Practice/blob/main/Codes/lengthOfLongestSubstring.py3) | [Array as map](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lengthOfLongestSubstring1.py3)
 2. [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Merge](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/flatten.py3)
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeDuplicates.py3)
+4. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findMaxConsecutiveOnes.py3)
