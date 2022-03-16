@@ -79,3 +79,7 @@
 3. [4Sum](https://leetcode.com/problems/4sum/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/fourSum.py3)
 4. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) | [dictionary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxLen.py3)
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isPalindrome.py3)
+
+**Day 14** :: 16-03-2022
+
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [dictionary](https://github.com/xambert/Coding-Practice/blob/main/Codes/lengthOfLongestSubstring.py3) | [Array as map](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lengthOfLongestSubstring1.py3)
