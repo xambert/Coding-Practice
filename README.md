@@ -90,3 +90,4 @@
 **Day 15** :: 18-03-2022
 
 1. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Greedy](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/fractionalknapsack.py3)
+2. [Subarray with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/) | [dictionary+prefix](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subarrayxork.py3)
