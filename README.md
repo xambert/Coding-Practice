@@ -86,3 +86,7 @@
 2. [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Merge](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/flatten.py3)
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeDuplicates.py3)
 4. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Simple](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findMaxConsecutiveOnes.py3)
+
+**Day 15** :: 18-03-2022
+
+1. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Greedy](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/fractionalknapsack.py3)
