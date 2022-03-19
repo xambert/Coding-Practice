@@ -91,3 +91,8 @@
 
 1. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Greedy](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/fractionalknapsack.py3)
 2. [Subarray with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/) | [dictionary+prefix](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subarrayxork.py3)
+
+**Day 16** :: 19-03-2022
+
+1. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/largestRectangleArea.py3)
+2. 
