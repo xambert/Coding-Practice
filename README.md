@@ -96,3 +96,4 @@
 
 1. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/largestRectangleArea.py3)
 2. [Number of Coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minCoins.py3)
+3. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[2p](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/trap.py3)
