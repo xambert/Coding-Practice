@@ -95,4 +95,4 @@
 **Day 16** :: 19-03-2022
 
 1. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/largestRectangleArea.py3)
-2. 
+2. [Number of Coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minCoins.py3)
