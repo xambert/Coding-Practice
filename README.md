@@ -101,3 +101,7 @@
 **Day 17** :: 20-03-2022
 
 1. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) | [Brute](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/JobScheduling.py3)
+
+**Day 18** :: 21-03-2022
+
+1. [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1#) | [Brute](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetSums.py3)
