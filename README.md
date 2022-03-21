@@ -106,3 +106,7 @@
 
 1. [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1#) | [Brute](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetSums.py3)
 2. [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Binary](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetsWithDup.py3)
+
+**Day 19** :: 22-03-2022
+
+1. [Subsets](https://leetcode.com/problems/subsets/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsets1.py3) | [bit](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsets2.py3)
