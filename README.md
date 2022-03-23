@@ -113,3 +113,9 @@
 2. [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetsWithDup1.py3)
 3. [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum.py3)
 4. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum2.py3)
+
+**Day 20** :: 23-02-2019
+
+1. [Permutations](https://leetcode.com/problems/permutations/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/permute.py3)
+2. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [mod](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getPermutation.py3) 
+3. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/partition.py3) 
