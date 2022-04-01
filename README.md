@@ -126,3 +126,4 @@
 
 1. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [BS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/singleNonDuplicate.py3)
 2. [Nth Root Of M](https://www.codingninjas.com/codestudio/problems/1062679?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [BS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findNthRootOfM.py3)
+3. [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | [MS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/kthElement.py3)
