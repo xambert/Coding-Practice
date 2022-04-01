@@ -114,10 +114,15 @@
 3. [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum.py3)
 4. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum2.py3)
 
-**Day 20** :: 23-02-2019
+**Day 20** :: 23-03-2022
 
 1. [Permutations](https://leetcode.com/problems/permutations/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/permute.py3)
 2. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [mod](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getPermutation.py3) 
 3. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Backtrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/partition.py3)
 4. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [String](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reverseWords.py3)
 5. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestCommonSubsequence.py3)
+
+**Day 21** :: 1-04-2022
+
+1. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [BS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/singleNonDuplicate.py3)
+2. [Nth Root Of M](https://www.codingninjas.com/codestudio/problems/1062679?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findNthRootOfM.py3)
