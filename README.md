@@ -135,5 +135,6 @@
 **Day 23** :: 22-04-2022
 
 1. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Copy](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/copyRandomList.py3)
-
 2. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [BackTrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/solveSudoku.py3)
+3. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) | [DFS](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findPath.py3)
+4. [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | []()
