@@ -131,3 +131,7 @@
 **Day 22** :: 21-04-2022
 
 1. [N-Queens](https://leetcode.com/problems/n-queens/) | [BackTrack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/solveNQueens.py3)
+
+**Day 23** :: 22-04-2022
+
+1. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Copy](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/copyRandomList.py3
