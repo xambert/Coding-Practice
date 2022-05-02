@@ -143,3 +143,7 @@ Todo [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring
 **Day 24** :: 28-04-2022
 
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/) | [dp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countBits.py3)
+
+**Day 25** :: 02-05-2022
+
+1. [ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/inorderTraversal.py3)
