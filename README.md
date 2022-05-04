@@ -147,3 +147,7 @@ Todo [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring
 **Day 25** :: 02-05-2022
 
 1. [ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/inorderTraversal.py3)
+
+**Day 26** :: 04-05-2022
+
+1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/preorderTraversal.py3)
