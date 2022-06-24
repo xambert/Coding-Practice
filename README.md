@@ -155,3 +155,4 @@ Todo [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring
 **Day 27** :: 25-06-2022
 
 1. [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1/?page=1&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [O(n)-O(1)](https://github.com/xambert/Coding-Practice/blob/main/Codes/minJumps.py3)
+2. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?page=1&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [O(n)-O(1)](https://github.com/xambert/Coding-Practice/blob/main/Codes/majorityElement_1.py3)
