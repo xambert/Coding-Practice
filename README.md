@@ -151,3 +151,7 @@ Todo [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring
 **Day 26** :: 04-05-2022
 
 1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Stack](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/preorderTraversal.py3)
+
+**Day 27** :: 25-06-2022
+
+1. [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1/?page=1&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [O(n)-O(1)](https://github.com/xambert/Coding-Practice/blob/main/Codes/minJumps.py3)
