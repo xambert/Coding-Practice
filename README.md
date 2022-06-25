@@ -164,3 +164,4 @@ https://raw.githubusercontent.com/
 **Day 28** :: 26-06-2022
 
 1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [O(n2)-O(n^3)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidSudoku_brute.py3)
+2. [Wave Array ](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/convertToWave.py3)
