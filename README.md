@@ -163,4 +163,4 @@ https://raw.githubusercontent.com/
 
 **Day 28** :: 26-06-2022
 
-1. []() | [O(n2)-O(n^3)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidSudoku_brute.py3)
+1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [O(n2)-O(n^3)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidSudoku_brute.py3)
