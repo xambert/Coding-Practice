@@ -160,3 +160,7 @@ Todo [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring
 4. [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [O(logn)-O(1)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countZeroes.py3)
 5. [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [LIST COPY + MOD](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rotateArr.py3)
 https://raw.githubusercontent.com/
+
+**Day 28** :: 26-06-2022
+
+1. []() | [O(n2)-O(n^3)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidSudoku_brute.py3)
