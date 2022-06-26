@@ -165,3 +165,5 @@ https://raw.githubusercontent.com/
 
 1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [O(n2)-O(n^3)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidSudoku_brute.py3)
 2. [Wave Array ](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/convertToWave.py3)
+3. [First Repeating Element](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/firstRepeated.py3)
+4. [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/productExceptSelf_1.py3)
