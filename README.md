@@ -173,3 +173,4 @@ https://raw.githubusercontent.com/
 **Day 29** :: 27-06-2022
 
 1. [Equilibrium index of an array](https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1/?page=2&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findEquilibrium.py3)
+2. [Kth distance](https://practice.geeksforgeeks.org/problems/kth-distance3757/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/checkDuplicatesWithinK.py3)
