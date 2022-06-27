@@ -169,3 +169,7 @@ https://raw.githubusercontent.com/
 4. [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/productExceptSelf_1.py3)
 5. [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/frequencyCount.py3)
 6. [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mergeArrays.py3)
+
+**Day 29** :: 27-06-2022
+
+1. [Equilibrium index of an array](https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1/?page=2&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findEquilibrium.py3)
