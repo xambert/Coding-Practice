@@ -177,3 +177,7 @@ https://raw.githubusercontent.com/
 3. [Smallest subarray with sum greater than x](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/smallestSubWithSum.py3)
 4. [Alternate positive and negative numbers](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rearrange.py3)
 5. [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair5616/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/hasArrayTwoCandidates.py3)
+
+**Day 30** :: 28-06-2022
+
+1. [Even and odd elements at even and odd positions](https://practice.geeksforgeeks.org/problems/even-and-odd-elements-at-even-and-odd-positions1342/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/arrangeOddAndEven.py3)
