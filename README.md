@@ -182,3 +182,4 @@ https://raw.githubusercontent.com/
 
 1. [Even and odd elements at even and odd positions](https://practice.geeksforgeeks.org/problems/even-and-odd-elements-at-even-and-odd-positions1342/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/arrangeOddAndEven.py3)
 2. [Star elements](https://practice.geeksforgeeks.org/problems/start-elements3447/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getStarAndSuperStar.py3)
+3. [Max value](https://practice.geeksforgeeks.org/problems/max-value1205/1/?page=2&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxVal.py3)
