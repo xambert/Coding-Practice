@@ -181,3 +181,4 @@ https://raw.githubusercontent.com/
 **Day 30** :: 28-06-2022
 
 1. [Even and odd elements at even and odd positions](https://practice.geeksforgeeks.org/problems/even-and-odd-elements-at-even-and-odd-positions1342/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/arrangeOddAndEven.py3)
+2. [Star elements](https://practice.geeksforgeeks.org/problems/start-elements3447/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getStarAndSuperStar.py3)
