@@ -188,3 +188,4 @@ https://raw.githubusercontent.com/
 **Day 31** :: 06-07-2022
 
 1. [3Sum](https://leetcode.com/problems/3sum/) | [nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threeSumv2.py3)
+2. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxAreav1.py3)
