@@ -184,3 +184,7 @@ https://raw.githubusercontent.com/
 2. [Star elements](https://practice.geeksforgeeks.org/problems/start-elements3447/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getStarAndSuperStar.py3)
 3. [Max value](https://practice.geeksforgeeks.org/problems/max-value1205/1/?page=2&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxVal.py3)
 4. [Count the elements](https://practice.geeksforgeeks.org/problems/count-the-elements1529/1/?page=3&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [nq,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/find.py3)
+
+**Day 31** :: 06-07-2022
+
+1. [3Sum](https://leetcode.com/problems/3sum/) | [nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threeSumv2.py3)
