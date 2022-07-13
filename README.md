@@ -193,4 +193,4 @@ https://raw.githubusercontent.com/
 **Day 32** :: 13-07-2022
 
 1. [First negative integer in every window of size k ](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/printFirstNegativeInteger.py3)
-2. [Counting elements in two arrays ](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [CPP : (m+n lg n, 1)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countEleLessThanOrEqual_cpp.cpp) | [Python :(m+n lg n, 1)]()
+2. [Counting elements in two arrays ](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [(m+n lg n, 1)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countEleLessThanOrEqual_cpp.cpp)
