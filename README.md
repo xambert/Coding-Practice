@@ -189,3 +189,7 @@ https://raw.githubusercontent.com/
 
 1. [3Sum](https://leetcode.com/problems/3sum/) | [nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threeSumv2.py3)
 2. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxAreav1.py3)
+
+**Day 32** :: 13-07-2022
+
+1. [First negative integer in every window of size k ](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/printFirstNegativeInteger.py3)
