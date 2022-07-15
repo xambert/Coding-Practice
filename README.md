@@ -204,3 +204,4 @@ https://raw.githubusercontent.com/
 **Day 33** :: 15-07-2022
 
 1. [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n, 2*n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/FindMaxSum.cpp) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/FindMaxSum1.cpp)
+2. [Sorted subsequence of size 3](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/find3Numbers.cpp)
