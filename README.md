@@ -200,3 +200,7 @@ https://raw.githubusercontent.com/
 6. [Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [mlgm+nlgn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findSwapValues.cpp)
 7. [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [nlgn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/allPair.cpp)
 8. [Facing the sun](https://practice.geeksforgeeks.org/problems/facing-the-sun2126/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countBuildings.py3)
+
+**Day 33** :: 15-07-2022
+
+1. [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n*2, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/FindMaxSum.cpp)
