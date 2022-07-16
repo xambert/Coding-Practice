@@ -212,3 +212,4 @@ https://raw.githubusercontent.com/
 **Day 34** :: 16-07-2022
 
 1. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findMaxSum.cpp)
+2. [Top K Frequent Elements in Array ](https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/topK.cpp)
