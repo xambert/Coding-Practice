@@ -208,3 +208,7 @@ https://raw.githubusercontent.com/
 3. [Max sum path in two arrays](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/max_path_sum.cpp)
 4. [Element with left side smaller and right side greater](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findElement.cpp)
 5. [Three Sum Closest](https://practice.geeksforgeeks.org/problems/three-sum-closest/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [n*n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/threeSumClosest.cpp)
+
+**Day 34** :: 16-07-2022
+
+1. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findMaxSum.cpp)
