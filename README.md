@@ -215,3 +215,7 @@ https://raw.githubusercontent.com/
 2. [Top K Frequent Elements in Array ](https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/topK.cpp)
 3. [Left most and right most index](https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x0849/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/indexes.cpp)
 4. [Minimum steps to make product equal to one](https://practice.geeksforgeeks.org/problems/minimum-steps-to-make-product-equal-to-one/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/makeProductOne.cpp)
+
+**Day 35** :: 17-07-2022
+
+1. [Remove duplicates in small prime array](https://practice.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeDuplicates_1.py3)
