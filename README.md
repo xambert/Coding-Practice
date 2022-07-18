@@ -220,3 +220,7 @@ https://raw.githubusercontent.com/
 
 1. [Remove duplicates in small prime array](https://practice.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeDuplicates_1.py3) | [n,K](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeDuplicate_v2.cpp)
 2. [K closest elements](https://practice.geeksforgeeks.org/problems/k-closest-elements3619/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [2lgn + k, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/printKClosest_v1.cpp) | [lgn + k, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/printKClosest_v2.py3)
+
+**Day 36** :: 18-07-2022
+
+1. [Maximum average subarray](https://practice.geeksforgeeks.org/problems/maximum-average-subarray5859/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findMaxAverage.cpp)
