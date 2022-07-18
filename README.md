@@ -224,3 +224,4 @@ https://raw.githubusercontent.com/
 **Day 36** :: 18-07-2022
 
 1. [Maximum average subarray](https://practice.geeksforgeeks.org/problems/maximum-average-subarray5859/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findMaxAverage.cpp)
+2. [Four Elements](https://practice.geeksforgeeks.org/problems/four-elements2452/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n3, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/find4Numbers.cpp)
