@@ -241,3 +241,4 @@ https://raw.githubusercontent.com/
 
 1. [Word with maximum frequency](https://practice.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maximumFrequency.cpp)
 2. [Equal point in a string of brackets](https://practice.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findIndex.cpp)
+3. [Remove minimum elements](https://practice.geeksforgeeks.org/problems/remove-minimum-elements4612/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minRemoval.cpp)
