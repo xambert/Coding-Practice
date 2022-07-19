@@ -236,3 +236,7 @@ https://raw.githubusercontent.com/
 11. [Sum of two numbers represented as arrays](https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represented-as-arrays3110/1?page=1&difficulty[]=0&status[]=unsolved&status[]=attempted&company[]=Amazon&category[]=Arrays&sortBy=accuracy) | [max(n,m)+1, max(n,m)+1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findSum_c1.cpp)
 12. [Left out candies](https://practice.geeksforgeeks.org/problems/left-out-candies5652/1?page=1&difficulty[]=0&status[]=unsolved&status[]=attempted&company[]=Amazon&category[]=Arrays&sortBy=accuracy) | [lg(signum n), 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/leftCandies.cpp)
 13. [Minimum Energy](https://practice.geeksforgeeks.org/problems/minimum-energy1107/1?page=1&difficulty[]=0&status[]=unsolved&status[]=attempted&company[]=Amazon&category[]=Arrays&sortBy=accuracy) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minEnergy.cpp)
+
+**Day 36** :: 19-07-2022
+
+1. [Word with maximum frequency](https://practice.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maximumFrequency.cpp)
