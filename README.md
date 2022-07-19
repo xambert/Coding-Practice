@@ -239,4 +239,4 @@ https://raw.githubusercontent.com/
 
 **Day 36** :: 19-07-2022
 
-1. [Word with maximum frequency](https://practice.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maximumFrequency.cpp)
+1. [Word with maximum frequency](https://practice.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maximumFrequency.cpp)
