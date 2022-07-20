@@ -243,3 +243,7 @@ https://raw.githubusercontent.com/
 2. [Equal point in a string of brackets](https://practice.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findIndex.cpp)
 3. [Remove minimum elements](https://practice.geeksforgeeks.org/problems/remove-minimum-elements4612/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minRemoval.cpp)
 4. [Pairs with Positive Negative values](https://practice.geeksforgeeks.org/problems/pairs-with-positive-negative-values3719/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=accuracy) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/PosNegPair.cpp)
+
+**Day 37** :: 20-07-2022
+
+1. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=two-pointer-algorithm&category[]=sliding-window&sortBy=accuracy) | [n2, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countTriplet.cpp)
