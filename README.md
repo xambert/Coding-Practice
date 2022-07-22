@@ -247,3 +247,7 @@ https://raw.githubusercontent.com/
 **Day 37** :: 20-07-2022
 
 1. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=two-pointer-algorithm&category[]=sliding-window&sortBy=accuracy) | [n2, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countTriplet.cpp)
+
+**Day 38** :: 22-07-2022
+
+1. [Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) | [V2, V](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/numProvinces.cpp)
