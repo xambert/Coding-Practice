@@ -252,6 +252,6 @@ https://raw.githubusercontent.com/
 
 1. [Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) | [V2, V](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/numProvinces.cpp)
 
-**Day 38** :: 23-07-2022
+**Day 39** :: 23-07-2022
 
 1. [Mountain Subarray Problem](https://practice.geeksforgeeks.org/problems/mountain-subarray-problem/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n+q,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/processQuerie.cpp)
