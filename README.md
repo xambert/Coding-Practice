@@ -254,4 +254,5 @@ https://raw.githubusercontent.com/
 
 **Day 39** :: 23-07-2022
 
-1. [Mountain Subarray Problem](https://practice.geeksforgeeks.org/problems/mountain-subarray-problem/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n+q,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/processQuerie.cpp)
+1. [Mountain Subarray Problem](https://practice.geeksforgeeks.org/problems/mountain-subarray-problem/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [n+q,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/processQuerie.cpp) 
+2. [Substrings of length k with k-1 distinct elements](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1?page=1&difficulty[]=1&company[]=Amazon&category[]=Strings&sortBy=accuracy) | [N, O(k)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countOfSubstrings.cpp)
