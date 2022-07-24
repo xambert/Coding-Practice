@@ -258,3 +258,8 @@ https://raw.githubusercontent.com/
 2. [Substrings of length k with k-1 distinct elements](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1?page=1&difficulty[]=1&company[]=Amazon&category[]=Strings&sortBy=accuracy) | [N, O(k)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countOfSubstrings.cpp)
 3. [Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=two-pointer-algorithm&sortBy=accuracy) | [n, O(k)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestKSubstr.cpp)
 4. [XOR Linked List](https://practice.geeksforgeeks.org/problems/xor-linked-list/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Linked%20List&sortBy=accuracy) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/printList.cpp)
+
+**Day 40** :: 25-07-2022
+
+1. [House Robber I](https://leetcode.com/problems/house-robber/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rob_1.cpp)
+2. [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rob_2.cpp)
