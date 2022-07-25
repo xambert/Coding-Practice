@@ -263,3 +263,7 @@ https://raw.githubusercontent.com/
 
 1. [House Robber I](https://leetcode.com/problems/house-robber/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rob_1.cpp)
 2. [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rob_2.cpp)
+
+**Day 41** :: 26-07-2022
+
+1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [mn,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/setZeroes.py3)
