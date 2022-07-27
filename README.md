@@ -267,3 +267,7 @@ https://raw.githubusercontent.com/
 **Day 41** :: 26-07-2022
 
 1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [mn,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/setZeroes.py3)
+
+**Day 42** :: 28-07-2022
+
+1. [Subsets](https://leetcode.com/problems/subsets/) | [n*2^n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsets.cpp)
