@@ -271,4 +271,5 @@ https://raw.githubusercontent.com/
 **Day 42** :: 28-07-2022
 
 1. [Subsets](https://leetcode.com/problems/subsets/) | [Bit : n*2^n, n*2*n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsets.cpp) | [Backtrack :n*2^n, n*2*n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsets_bt.cpp)
+2. [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/numIslands.cpp)
 
