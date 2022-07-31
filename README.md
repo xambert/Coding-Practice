@@ -274,3 +274,7 @@ https://raw.githubusercontent.com/
 2. [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Stack : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/numIslands.cpp)
 3. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [DFS : mn, mn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/surroundedreg.cpp)
 4. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [BFS : mn, mn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/orangesRotting.cpp) | [OPtimised+BFS : mn, mn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/orangesRotting_opt.cpp)
+
+**Day 43** :: 31-07-2022
+
+1. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [26n, 26](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/characterReplacement.cpp)
