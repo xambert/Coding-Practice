@@ -277,4 +277,4 @@ https://raw.githubusercontent.com/
 
 **Day 43** :: 31-07-2022
 
-1. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Sliding Window : 26n, 26](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/characterReplacement.cpp) | [Sliding Window : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/characterReplacement_opt.cpp)
+1. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Sliding Window : 26n, 26](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/characterReplacement.cpp) | [Sliding Window : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/characterReplacement_opt1.cpp)
