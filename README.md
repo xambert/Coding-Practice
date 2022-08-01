@@ -290,4 +290,4 @@ https://raw.githubusercontent.com/
 **Day 45** :: 02-08-2022
 
 1. [ Same Tree](https://leetcode.com/problems/same-tree/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSameTreev1.cpp)
-2. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [mn, m](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSubtree.cpp)
+2. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [mn, m](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSubtree.cpp) | [DFS+OPt : mn,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSubtree_opt.cpp)
