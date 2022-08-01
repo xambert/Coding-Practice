@@ -286,3 +286,8 @@ https://raw.githubusercontent.com/
 3. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxDepth.cpp)
 4. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [DFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/diameterOfBinaryTree.cpp)
 5. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [DFS :n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isBalanced.cpp) | [DFS-Opt : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isBalanced_opt.cpp)
+
+**Day 45** :: 02-08-2022
+
+1. [ Same Tree](https://leetcode.com/problems/same-tree/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSameTreev1.cpp)
+2. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [mn, m](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSubtree.cpp)
