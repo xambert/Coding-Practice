@@ -291,3 +291,4 @@ https://raw.githubusercontent.com/
 
 1. [ Same Tree](https://leetcode.com/problems/same-tree/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSameTreev1.cpp)
 2. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [mn, m](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSubtree.cpp) | [DFS+OPt : mn,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isSubtree_opt.cpp)
+3. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [n2, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lowestCommonAncestor.cpp)
