@@ -298,4 +298,4 @@ https://raw.githubusercontent.com/
 **Day 46** :: 03-08-2022
 
 1. [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [DFS : n,h](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/goodNodes.cpp) | [DFS -no global var: n,h](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/goodNodes_1.cpp)
-2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [DFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidBST.cpp)
+2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [DFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidBST.cpp) | [Stack(Inorder) : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidBST_1.cpp)
