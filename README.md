@@ -304,3 +304,4 @@ https://raw.githubusercontent.com/
 **Day 47** :: 04-08-2022
 
 1. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [n2, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/buildTree_brute.cpp)
+2. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxPathSum.cpp)
