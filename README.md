@@ -312,5 +312,5 @@ https://raw.githubusercontent.com/
 
 **Day 49** :: 06-08-2022
 
-1. [Subsets II](https://leetcode.com/problems/subsets-ii/) | [2^n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetsWithDup_BT.cpp)
-2. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [2^n, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum2_BT.cpp)
+1. [Subsets II](https://leetcode.com/problems/subsets-ii/) | [BackTrack : 2^n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetsWithDup_BT.cpp)
+2. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [BackTrack : 2^n, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum2_BT.cpp)
