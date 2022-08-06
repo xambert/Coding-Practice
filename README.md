@@ -314,3 +314,7 @@ https://raw.githubusercontent.com/
 
 1. [Subsets II](https://leetcode.com/problems/subsets-ii/) | [BackTrack : 2^n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/subsetsWithDup_BT.cpp)
 2. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [BackTrack : 2^n, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum2_BT.cpp) | [BT improved : 2^n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/combinationSum2_improved.cpp)
+
+**Day 50** :: 07-08-2022
+
+1. [Word Search](https://leetcode.com/problems/word-search/) | [DFS : mn4^n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/wordsearch.cpp)
