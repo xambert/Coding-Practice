@@ -323,3 +323,4 @@ https://raw.githubusercontent.com/
 4. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [nlgn,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lastStoneWeight.cpp)
 5. [Permutations](https://leetcode.com/problems/permutations/) | [Inplace + Backtrack : 2^n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/permute_bt_inplace.cpp)
 6. [Course Schedule](https://leetcode.com/problems/course-schedule/) | [DFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/canFinish.cpp)
+7. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [BFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findOrder.cpp)
