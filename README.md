@@ -322,3 +322,4 @@ https://raw.githubusercontent.com/
 3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/KthLargest.cpp) 
 4. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [nlgn,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lastStoneWeight.cpp)
 5. [Permutations](https://leetcode.com/problems/permutations/) | [Inplace + Backtrack : 2^n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/permute_bt_inplace.cpp)
+6. [Course Schedule](https://leetcode.com/problems/course-schedule/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/canFinish.cpp)
