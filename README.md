@@ -328,4 +328,4 @@ https://raw.githubusercontent.com/
 
 **Day 51** :: 08-08-2022
 
-1. [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Sliding Window : 26n, 26](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/checkInclusion.cpp)
+1. [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Sliding Window : 26n, 26](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/checkInclusion.cpp) | [Optimised Sliding Window : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/checkInclusion_opt.cpp)
