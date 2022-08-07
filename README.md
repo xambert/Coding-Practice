@@ -318,6 +318,6 @@ https://raw.githubusercontent.com/
 **Day 50** :: 07-08-2022
 
 1. [Word Search](https://leetcode.com/problems/word-search/) | [DFS : mn4^n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/wordsearch.cpp)
-2. [Minimum Platform](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Greedy : nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findPlatform.cpp)
-3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/KthLargest.cpp)
+2. [Minimum Platform](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Greedy : nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findPlatform.cpp) | [Hash : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findPlatform_hash.cpp)
+3. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/KthLargest.cpp) 
 4. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [nlgn,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lastStoneWeight.cpp)
