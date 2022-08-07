@@ -325,3 +325,7 @@ https://raw.githubusercontent.com/
 6. [Course Schedule](https://leetcode.com/problems/course-schedule/) | [DFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/canFinish.cpp)
 7. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [BFS : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findOrder.cpp)
 8. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [DP : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/climbStairs.cpp)
+
+**Day 51** :: 08-08-2022
+
+1. [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Sliding Window : 26n, 26](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/checkInclusion.cpp)
