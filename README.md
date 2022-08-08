@@ -332,3 +332,4 @@ https://raw.githubusercontent.com/
 2. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [ngln, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/kClosest.cpp) | [klgk, k](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/kClosest_spopt.cpp)
 3. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/parcheck.cpp)
 4. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [lg(maxh)n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minEatingSpeed.py3)
+5. [Binary Search](https://leetcode.com/problems/binary-search/) | [lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/search.cpp)
