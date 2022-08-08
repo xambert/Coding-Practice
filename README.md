@@ -338,3 +338,4 @@ https://raw.githubusercontent.com/
 **Day 52** :: 09-08-2022
 
 1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Stack : kn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/evalRPN.cpp)
+2. [Min Stack](https://leetcode.com/problems/min-stack/) | [1, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/MinStack.cpp)
