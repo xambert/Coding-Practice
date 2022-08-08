@@ -334,3 +334,7 @@ https://raw.githubusercontent.com/
 4. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [lg(maxh)n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minEatingSpeed.py3)
 5. [Binary Search](https://leetcode.com/problems/binary-search/) | [lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/search.cpp)
 6. [Jump Game](https://leetcode.com/problems/jump-game/) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/canJump_v1.py3)
+
+**Day 52** :: 09-08-2022
+
+1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Stack : kn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/evalRPN.cpp)
