@@ -344,6 +344,10 @@ https://raw.githubusercontent.com/
 
 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Iteration : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reverseList_it.cpp) | [Recursion : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reverseList_rec.cpp)
 
-**day 54** :: 11-08-2022
+**Day 54** :: 11-08-2022
 
-1.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [DP: n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSubArray_1.py3)
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [DP: n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSubArray_1.py3)
+
+**Day 55** :: 12-08-2022
+1. [Reorder List](https://leetcode.com/problems/reorder-list/) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reorderList.cpp)
+
