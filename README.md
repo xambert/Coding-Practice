@@ -356,3 +356,4 @@ https://raw.githubusercontent.com/
 
 1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSlidingWindow_1.cpp)
 2. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Sliding Window : n,k+n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minWindow_1.cpp)
+3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minsearch_1.cpp)
