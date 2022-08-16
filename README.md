@@ -349,5 +349,9 @@ https://raw.githubusercontent.com/
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [DP: n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSubArray_1.py3)
 
 **Day 55** :: 12-08-2022
+
 1. [Reorder List](https://leetcode.com/problems/reorder-list/) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/reorderList.cpp)
 
+**Day 56** :: 16-08-2022
+
+1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSlidingWindow_1.cpp)
