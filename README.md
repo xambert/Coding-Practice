@@ -354,6 +354,7 @@ https://raw.githubusercontent.com/
 
 **Day 56** :: 16-08-2022
 
-1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSlidingWindow_1.cpp)
+1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Sliding Window : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSlidingWindow_1.cpp)
 2. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Sliding Window : n,k+n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minWindow_1.cpp)
-3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minsearch_1.cpp)
+3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Binary Search : lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minsearch_1.cpp)
+4. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Binary Search : lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minrotdup.cpp)
