@@ -355,3 +355,4 @@ https://raw.githubusercontent.com/
 **Day 56** :: 16-08-2022
 
 1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/maxSlidingWindow_1.cpp)
+2. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Sliding Window : n,k](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minWindow_1.cpp)
