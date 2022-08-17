@@ -362,3 +362,4 @@ https://raw.githubusercontent.com/
 **Day 57** :: 17-08-2022
 
 1. [Remove Nth Node From End of Lis](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [One-Pass Linked List : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthFromEnd_1.cpp)
+2. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [2-way merge : nlgm, m](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mergeKLists_ms.cpp)
