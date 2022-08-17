@@ -358,3 +358,7 @@ https://raw.githubusercontent.com/
 2. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Sliding Window : n,k+n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minWindow_1.cpp)
 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Binary Search : lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minsearch_1.cpp)
 4. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Binary Search : lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/minrotdup.cpp)
+
+**Day 57** :: 17-08-2022
+
+1. [Remove Nth Node From End of Lis](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [One-Pass Linked List : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthFromEnd_1.cpp)
