@@ -372,4 +372,4 @@ https://raw.githubusercontent.com/
 3. [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Queue : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countBits_1.cpp)
 4. [Clone Graph](https://leetcode.com/problems/clone-graph/) | [DFS : (m+n), n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/cloneGraph_dfs.cpp) | [BFS : (m+n), n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/cloneGraph_bfs.cpp)
 5. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [DFS : mn, mn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/pacificAtlantic_dfs.cpp)
-6. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [n*n, n*n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestPalindrome_dp.cpp)
+6. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [DP : n*n, n*n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestPalindrome_dp.cpp)
