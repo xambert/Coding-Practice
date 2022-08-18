@@ -364,3 +364,7 @@ https://raw.githubusercontent.com/
 1. [Remove Nth Node From End of Lis](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [One-Pass Linked List : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeNthFromEnd_1.cpp)
 2. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [2-way merge : nlgm, m](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mergeKLists_ms.cpp)
 3. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [BFS + BFS (Memory 5%) : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/deser_1.cpp)
+
+**Day 58** :: 18-08-2022
+
+1. [Missing Number](https://leetcode.com/problems/missing-number/) | [Math : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/missingNumber_math.cpp) | [Xor : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/missingNumber_xor.cpp) | [BS : nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/missingNumber_bs.cpp)
