@@ -368,3 +368,4 @@ https://raw.githubusercontent.com/
 **Day 58** :: 18-08-2022
 
 1. [Missing Number](https://leetcode.com/problems/missing-number/) | [Math : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/missingNumber_math.cpp) | [Xor : n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/missingNumber_xor.cpp) | [BS : nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/missingNumber_bs.cpp)
+2. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Prioirty_Queue : lgn, O(nglgn)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/MedianFinder_1.cpp)
