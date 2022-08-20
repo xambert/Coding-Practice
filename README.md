@@ -374,3 +374,7 @@ https://raw.githubusercontent.com/
 5. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [DFS : mn, mn](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/pacificAtlantic_dfs.cpp)
 6. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [DP : n*n, n*n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestPalindrome_dp.cpp) | [Two-Pointers : n*n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestPalindrome_2p.py3)
 7. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [2p : n*n, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countSubstrings_2p.py3)
+
+**Day 59** :: 20-08-2022
+
+1. [Decode Ways](https://leetcode.com/problems/decode-ways/) | [DP : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/numDecodings_dp.py3)
