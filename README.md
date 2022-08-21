@@ -382,3 +382,4 @@ https://raw.githubusercontent.com/
 **DAY 60** :: 21-08-2022
 
 1. [Word Break](https://leetcode.com/problems/word-break/) | [DP : nmn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/wordBreak_1.py3)
+2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP : n2, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/lengthOfLIS_1dp.py3)
