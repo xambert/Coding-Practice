@@ -378,3 +378,7 @@ https://raw.githubusercontent.com/
 **Day 59** :: 20-08-2022
 
 1. [Decode Ways](https://leetcode.com/problems/decode-ways/) | [DP : n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/numDecodings_dp.py3)
+
+**DAY 60** :: 21-08-2022
+
+1. [Word Break](https://leetcode.com/problems/word-break/) | [DP : nmn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/wordBreak_1.py3)
