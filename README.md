@@ -387,3 +387,7 @@ https://raw.githubusercontent.com/
 **Day 61** :: 22-08-2022
 
 1. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [2^n, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/generateParenthesis_bt.py3)
+
+**Day 62** :: 24-08-2022
+
+1. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Monotonic Stack, n:n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/dailyTemperatures_stk.py3)
