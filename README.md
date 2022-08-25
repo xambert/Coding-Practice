@@ -395,3 +395,4 @@ https://raw.githubusercontent.com/
 **Day 63** :: 26-08-2022
 
 1. [GFG : Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=submissions) | [DFS: n,h](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/GFG/isBST_dfs.cpp)
+2. [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=submissions) | [n,n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/GFG/leftView.cpp)
