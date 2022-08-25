@@ -394,4 +394,4 @@ https://raw.githubusercontent.com/
 
 **Day 63** :: 26-08-2022
 
-1. []() | []()
+1. [GFG : Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=submissions) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/GFG/isBST_dfs.cpp)
