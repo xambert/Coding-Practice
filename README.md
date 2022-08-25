@@ -391,3 +391,7 @@ https://raw.githubusercontent.com/
 **Day 62** :: 24-08-2022
 
 1. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Monotonic Stack, n:n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/dailyTemperatures_stk.py3)
+
+**Day 63** :: 26-08-2022
+
+1. []() | []()
