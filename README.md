@@ -400,4 +400,4 @@ https://raw.githubusercontent.com/
 
 **Day 64** :: 27-08-2022
 
-1. [Car Fleet](https://leetcode.com/problems/car-fleet/) | [nlgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/carFleet.py3)
+1. [Car Fleet](https://leetcode.com/problems/car-fleet/) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/carFleet.py3)
