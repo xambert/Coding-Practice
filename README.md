@@ -405,3 +405,4 @@ https://raw.githubusercontent.com/
 **Day 65** :: 28-08-2022
 
 1. [Prefix match with other strings](https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1?page=1&difficulty[]=1&difficulty[]=2&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [nk, k](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/klengthpref.cpp)
+2. [Matrix Operations](https://practice.geeksforgeeks.org/problems/7d7f73a59ddc3f9c8046af6bd66ea67311bf877e/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=latest) | [mn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/endPoints.cpp)
