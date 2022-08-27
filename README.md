@@ -401,3 +401,7 @@ https://raw.githubusercontent.com/
 **Day 64** :: 27-08-2022
 
 1. [Car Fleet](https://leetcode.com/problems/car-fleet/) | [nlgn, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/carFleet.py3)
+
+**Day 65** :: 28-08-2022
+
+1. [Prefix match with other strings](https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1?page=1&difficulty[]=1&difficulty[]=2&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [nk, k](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/klengthpref.cpp)
