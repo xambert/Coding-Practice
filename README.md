@@ -414,3 +414,4 @@ https://raw.githubusercontent.com/
 **Day 66** :: 29-08-2022
 
 1. [K distance from root](https://practice.geeksforgeeks.org/problems/k-distance-from-root/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [h,h](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/KthLargest.cpp)
+2. [Faithful Numbers](https://practice.geeksforgeeks.org/problems/faithful-numbers0014/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [lgn, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/nthFaithfulNum.py3)
