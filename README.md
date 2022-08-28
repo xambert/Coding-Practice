@@ -410,3 +410,7 @@ https://raw.githubusercontent.com/
 4. [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [n, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/mirror.cpp)
 5. [C++ Matrix Rotation by 180 degree](https://practice.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [n2, 1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rotate180.cpp)
 6. [Find Last Digit Of a^b for Large Numbers](https://practice.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getLastDigit.cpp)
+
+**Day 66** :: 29-08-2022
+
+1. [K distance from root](https://practice.geeksforgeeks.org/problems/k-distance-from-root/1?page=1&difficulty[]=0&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [h,h](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/KthLargest.cpp)
