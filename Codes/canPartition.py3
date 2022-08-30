@@ -1,3 +1,4 @@
+
 def canPartition(self, nums: List[int]) -> bool:
         n = len(nums)
         s = sum(nums)
