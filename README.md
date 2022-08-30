@@ -420,3 +420,4 @@ https://raw.githubusercontent.com/
 **Day 67** :: 31-08-2022
 
 1. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [nm, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/canPartition.py3)
+2. [Word Ladder](https://leetcode.com/problems/word-ladder/) | [26nm, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/ladderLength.py3)
