@@ -421,3 +421,7 @@ https://raw.githubusercontent.com/
 
 1. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [nm, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/canPartition.py3)
 2. [Word Ladder](https://leetcode.com/problems/word-ladder/) | [26nm, n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/ladderLength.py3)
+
+**Day 68** :: 02-08-2022
+
+1. [Longest substring to form a Palindrome](https://practice.geeksforgeeks.org/problems/longest-substring-whose-character-rearranged-can-form-a-palindrome/1?page=1&difficulty[]=2&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [Bit : 26n, 26n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestSubstring.cpp)
