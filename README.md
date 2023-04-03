@@ -425,3 +425,7 @@ https://raw.githubusercontent.com/
 **Day 68** :: 02-08-2022
 
 1. [Longest substring to form a Palindrome](https://practice.geeksforgeeks.org/problems/longest-substring-whose-character-rearranged-can-form-a-palindrome/1?page=1&difficulty[]=2&status[]=unsolved&company[]=Samsung&sortBy=accuracy) | [Bit : 26n, 26n](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/longestSubstring.cpp)
+
+**Day 69** :: 03-04-2022
+
+1. [https://leetcode.com/problems/concatenation-of-array/description/](https://leetcode.com/problems/concatenation-of-array/description/) | [py](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Concatenation%20of%20Array.py3)
