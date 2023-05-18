@@ -430,3 +430,7 @@ https://raw.githubusercontent.com/
 
 1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [py](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/Concatenation%20of%20Array.py3) | [cpp](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/getConcatenation.cpp)
 2. [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&status[]=unsolved&category[]=Arrays&sortBy=submissions) | [O(n), O(k)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/leaders.cpp)
+
+**Day 70** :: 18-05-2022
+
+1. [Remove Element](https://leetcode.com/problems/remove-element/description/) | [n,1](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/removeElement.cpp)
