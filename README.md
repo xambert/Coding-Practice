@@ -159,8 +159,6 @@ Todo [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring
 3. [Find Missing And Repeating ](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/?page=1&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions) | [O(1)-O(1)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/findTwoElement.py3)
 4. [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [O(logn)-O(1)](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/countZeroes.py3)
 5. [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?page=1&difficulty[]=0&status[]=unsolved&company[]=Amazon&category[]=Arrays&sortBy=submissions#) | [LIST COPY + MOD](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/rotateArr.py3)
-https://raw.githubusercontent.com/
-
 **Day 28** :: 26-06-2022
 
 1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [n2, n2](https://raw.githubusercontent.com/xambert/Coding-Practice/main/Codes/isValidSudoku_brute.py3)
